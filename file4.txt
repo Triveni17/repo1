@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 gud ni8
-=======
 gud afternoon
->>>>>>> t1
